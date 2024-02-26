@@ -1,0 +1,274 @@
+{
+    "1": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "S1",
+            "number": "n(nnnn)",
+            "year": NaN
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "S1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "2": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": NaN,
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "Y",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "3": {
+        "in_file1": {
+            "cc": "AM",
+            "description ": "Armenia",
+            "kc": "A1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": "AM",
+            "description ": "Armenia",
+            "kc": "A1",
+            "number": NaN,
+            "year": "n(nnnn)"
+        }
+    },
+    "4": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "5": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "6": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "7": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "8": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "D5",
+            "number": "n(nnnn)",
+            "year": NaN
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "9": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "A",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "10": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "11": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B1",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "12": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "13": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B2",
+            "number": NaN,
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "14": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B2",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "15": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "B",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "16": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "S",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "S",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    },
+    "17": {
+        "in_file1": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "U",
+            "number": NaN,
+            "year": NaN
+        },
+        "in_file2": {
+            "cc": NaN,
+            "description ": NaN,
+            "kc": "U",
+            "number": "n(nnnn)",
+            "year": "n(nnnn)"
+        }
+    }
+}
